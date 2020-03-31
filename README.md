@@ -1,1 +1,0 @@
-# BE-Coding-Test
